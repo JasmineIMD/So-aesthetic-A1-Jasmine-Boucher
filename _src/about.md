@@ -8,7 +8,7 @@ this is the {{title}} page :3
 <body class="yellow-body">
 
 
-# Hi, I'm Jasmine
+# Hi, I'm Jasmine.
 
 
 
