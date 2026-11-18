@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    font-family:'Poetsen One';
+}
+header, footer {
+    padding: 1vw 1vw;
+    background-image: url('/img/Banner Decoration.svg');
+    background-size: auto;
+    background-repeat: repeat;
+    font-size: 2.5em;
+    padding-bottom: 1em;
+    background-color: none;
+}
+footer {
+    padding-top: 1em;
+    padding-bottom: 0.5em;
+    background-image: url('/img/Banner DecorationFooter.svg');
+}
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+}
+
+
+nav a {
+    color: rgb(53, 93, 255);
+    text-decoration: none;
+}
+.hero {
+    background-color: rgb(255, 238, 180);
+    color: rgb(53, 93, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.hero h1 {
+    font-size: 6rem;
+}
+
+h1,h2,h3,p,li {
+    color: rgb(53, 93, 255);
+}
+.wrapper {
+    padding: 5vw;
+}
+.row {
+    display: flex;
+}
+.column {
+    flex: 1;
+    padding-left: 3em;
+    background-color: rgb(255, 255, 255);
+    border-radius: 2em;
+}
+
+.yellow-body {
+ background-color: rgb(255, 238, 180);
+}
+
+li {
+    padding-left: 2em;
+}
+
+img {
+    border-radius: 4em;
+    width: 50%;
+    padding-left: 1em;
+}
